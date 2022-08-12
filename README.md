@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techseason" alt="techseason" /></a> </p>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 <p align="left"> <a href="https://twitter.com/techseason" target="blank"><img src="https://img.shields.io/twitter/follow/techseason?logo=twitter&style=for-the-badge" alt="techseason" /></a> </p>
 
 - 🌱 I’m currently learning **React Native and Android Devolopment**

@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: techseason
             # Text on contribution graph 
-            text: JASINERI
+            text: Aman
        - uses: jasineri/simple-push-action@v1

@@ -9,7 +9,7 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<p align="left"> <a href="https://instagram.com/tech_season" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/techseason?style=social" alt="tech_season" /></a> </p>
+<p align="left"> <a href="https://youtube.com/techseason" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/techseason?style=social" alt="techseason" /></a> </p>
 
 - 🌱 I’m currently learning **React Native and Android Devolopment**
 

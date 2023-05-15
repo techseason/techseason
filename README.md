@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techseason" alt="techseason" /></a> </p>
 
-## Snake eating contribution graph
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 <p align="left"> <a href="https://instagram.com/tech_season" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="tech_season" /></a> </p>
 
 - 🌱 I’m currently learning **React Native and Android Devolopment**
